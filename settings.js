@@ -2,34 +2,34 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263717750825"
-global.ownername = "Precious Ayomide👑"
-global.ytname = "YT: Prexzyvilla"
+global.ownernomer = "233530453334"
+global.ownername = "Arhinnite the best😎😈"
+global.ytname = "YT: Arhinite"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '263717750825'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
-global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '233530453334'  //creator number
+global.ownername = 'Arhinnite the best😎😈' //owner name
+global.botname = 'ARHINNITE ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'PREXZY👑\n\nContact: +263717750825'
+global.author = 'Arhinnite💯: +233537769859'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "PREXZYVILLA."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
+global.link = 'https://whatsapp.com/channel/0029Vabonx4GU3BTJDJSt72U'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
@@ -51,14 +51,14 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'this feature is too dangerous so boss Arhinnite has disabled it☠',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    wait: 'Arhinnite please = wait... ',    
+    error: 'Shit!',
 }
 
 global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
